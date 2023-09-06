@@ -8,12 +8,12 @@ namespace buoi4
 {
     class ToaDo
     {
-        private string _diem;
+        private string diem;
 
         public string Diem
         {
-            get { return Diem; }
-            set { _diem = value; }
+            get { return diem; }
+            set { diem = value; }
         }
         private float x;
 
@@ -23,5 +23,21 @@ namespace buoi4
             set { x = value; }
         }
         private float y;
+        public float Y
+        {
+            get { return x; }
+            set { y = value; }
+        }
+        public ToaDo(string diem,float x, float y)
+        {
+            diem = "0";
+            x = 0;
+            y = 0;
+        }
+        public ToaDo()
+        { 
+        
+        }
+       
     }
 }

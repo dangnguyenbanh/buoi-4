@@ -10,6 +10,11 @@ namespace buoi4
     {
         static void Main(string[] args)
         {
+            ToaDo td = new ToaDo("O",5,5);
+            HinhTron ht = new HinhTron(10.5,td);
+            ht.xuat();
+            Console.ReadKey();
         }
+       
     }
 }
