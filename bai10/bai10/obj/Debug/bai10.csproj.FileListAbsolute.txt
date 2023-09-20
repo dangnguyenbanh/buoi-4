@@ -1,0 +1,8 @@
+D:\bai10\bai10\bin\Debug\bai10.exe.config
+D:\bai10\bai10\bin\Debug\bai10.exe
+D:\bai10\bai10\bin\Debug\bai10.pdb
+D:\bai10\bai10\obj\Debug\bai10.csproj.AssemblyReference.cache
+D:\bai10\bai10\obj\Debug\bai10.csproj.SuggestedBindingRedirects.cache
+D:\bai10\bai10\obj\Debug\bai10.csproj.CoreCompileInputs.cache
+D:\bai10\bai10\obj\Debug\bai10.exe
+D:\bai10\bai10\obj\Debug\bai10.pdb
